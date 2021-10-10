@@ -1,6 +1,6 @@
 # APRIMA AGAM WARDANI RESUME'S
 
-[![Open live](https://toppng.com//public/uploads/preview/live-chat-button-png-11553733405ttnase4nwv.png)](https://stackblitz.com/github/snowpackjs/astro/tree/latest/examples/portfolio)
+[![Open live](https://media.istockphoto.com/vectors/live-streaming-icon-modern-vector-button-design-isolated-on-white-vector-id1202074225?k=20&m=1202074225&s=612x612&w=0&h=IHv5ZQXgYqK4kL8aR-2k2ck2OSKHPPLrlFJPB-jcF_E=)](https://stackblitz.com/github/snowpackjs/astro/tree/latest/examples/portfolio)
 
 ## 🧞 Commands
 
